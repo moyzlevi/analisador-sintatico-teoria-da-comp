@@ -1,0 +1,1 @@
+ID = NUM OP_SOMA NUM ; ID = NUM ; ID = ( ID OP_SOMA ID ) OP_DIVIDE NUM ;  

@@ -1,0 +1,17 @@
+Token    Simbolo    Posicao no codigo (linha)
+-------  ---------  ---------------------------
+nota1    id         [1]
+=        op=        [1, 2, 3]
+8        num        [1]
++        op+        [1, 3]
+3        num        [1]
+;        simbesp    [1, 2, 3]
+nota2    id         [2]
+6        num        [2]
+media    id         [3]
+(        simbesp    [3]
+nota1    id         [3]
+nota2    id         [3]
+)        simbesp    [3]
+/        op/        [3]
+2        num        [3]
